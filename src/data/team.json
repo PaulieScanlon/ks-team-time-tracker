@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bert",
+    "continent": "America",
+    "locale": "Los_Angeles",
+    "city": "Seattle"
+  },
+  {
+    "name": "Ernie",
+    "continent": "Europe",
+    "locale": "London",
+    "city": "Brighton"
+  },
+  {
+    "name": "Cookie Monster",
+    "continent": "America",
+    "locale": "New_York",
+    "city": "New York"
+  },
+  {
+    "name": "Elmo",
+    "continent": "Africa",
+    "locale": "Dar_es_Salaam",
+    "city": "Dar es Salaam"
+  },
+  {
+    "name": "Big Bird",
+    "continent": "America",
+    "locale": "Bogota",
+    "city": "Bogota"
+  },
+  {
+    "name": "Oscar the Grouch",
+    "continent": "Asia",
+    "locale": "Bangkok",
+    "city": "Bangkok"
+  }
+]
